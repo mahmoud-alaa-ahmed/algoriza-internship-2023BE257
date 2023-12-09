@@ -7,18 +7,26 @@ namespace Vezeeta.Core.Models
 	{
 		public BookingStatus Status { get; set; }
 
-        [ForeignKey(nameof(Appointment))]
-        public int AppointmentId { get; set; }
-        public Appointment Appointment { get; set; } = default!;
+        [ForeignKey(nameof(Doctor))]
+        public int DoctorId { get; set; }
+        public Doctor Doctor { get; set; } = default!;
 
-        [ForeignKey(nameof(Patient))]
+		[ForeignKey(nameof(Time))]
+		public int TimeId { get; set; }
+		public TimeModel Time { get; set; } = default!;
+
+		[ForeignKey(nameof(Day))]
+		public int DayId { get; set; }
+		public DayModel Day { get; set; } = default!;
+
+		[ForeignKey(nameof(Patient))]
         public int PatientId { get; set; }
         public Patient Patient { get; set; } = default!;
 
 		[ForeignKey(nameof(Discount))]
         public int DiscountId { get; set; }
         public Discount Discount { get; set; } = default!;
-
+		public double Price { get; set; }
 		public double FinalPrice { get; set; }
 
 	}

@@ -29,7 +29,6 @@ namespace Vezeeta.Infrastructure.Data.DataSeed
 				 new ApplicationUser {
 					FirstName = "Mahmoud",
 					LastName = "Alaa",
-					UserName = "mahmoud_alaa",
 					Gender = Core.Enums.Gender.Male,
 					DateOfBirth = DateTime.Now,
 					UserType = UserRole.Admin,

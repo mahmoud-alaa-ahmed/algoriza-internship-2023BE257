@@ -11,7 +11,7 @@ namespace Vezeeta.Core.Models
             Times = new List<TimeModel>();
         }
         public Days Day { get; set; }
-        public ICollection<TimeModel> Times { get; set; }
+        public List<TimeModel> Times { get; set; }
 
         [ForeignKey(nameof(Appointment))]
         public int AppointmentId { get; set; }

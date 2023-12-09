@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\oo\\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\\Desktop\\Vezeeta\\Vezeeta.Api\\wwwroot\\images\\doctors\\150d5005-61f5-440a-b79f-156e3df02e90profile-pic (2).png",
+      "PackagePath": "staticwebassets\\images\\doctors\\150d5005-61f5-440a-b79f-156e3df02e90profile-pic (2).png"
+    },
+    {
+      "Id": "C:\\Users\\oo\\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\\Desktop\\Vezeeta\\Vezeeta.Api\\wwwroot\\images\\doctors\\4b22453c-a578-4e87-b162-cce455175933profile-pic (2).png",
+      "PackagePath": "staticwebassets\\images\\doctors\\4b22453c-a578-4e87-b162-cce455175933profile-pic (2).png"
+    },
+    {
+      "Id": "C:\\Users\\oo\\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\\Desktop\\Vezeeta\\Vezeeta.Api\\wwwroot\\images\\doctors\\4b5e0313-8a21-4e5b-a0c4-ef405cd89d81cover-image (6).png",
+      "PackagePath": "staticwebassets\\images\\doctors\\4b5e0313-8a21-4e5b-a0c4-ef405cd89d81cover-image (6).png"
+    },
+    {
+      "Id": "C:\\Users\\oo\\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\\Desktop\\Vezeeta\\Vezeeta.Api\\wwwroot\\images\\doctors\\531059ef-ec53-4017-bfa3-c506ac023277profile-pic (8).png",
+      "PackagePath": "staticwebassets\\images\\doctors\\531059ef-ec53-4017-bfa3-c506ac023277profile-pic (8).png"
+    },
+    {
+      "Id": "C:\\Users\\oo\\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\\Desktop\\Vezeeta\\Vezeeta.Api\\wwwroot\\images\\doctors\\68453d6b-3ed7-4a1d-abe0-3645313a8690profile-pic (10).png",
+      "PackagePath": "staticwebassets\\images\\doctors\\68453d6b-3ed7-4a1d-abe0-3645313a8690profile-pic (10).png"
+    },
+    {
+      "Id": "C:\\Users\\oo\\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\\Desktop\\Vezeeta\\Vezeeta.Api\\wwwroot\\images\\doctors\\a69f17b6-5299-41cb-8ef3-9104a8470c72ITICertificate.jpg",
+      "PackagePath": "staticwebassets\\images\\doctors\\a69f17b6-5299-41cb-8ef3-9104a8470c72ITICertificate.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oo\\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\\Desktop\\Vezeeta\\Vezeeta.Api\\wwwroot\\images\\doctors\\b7d35c00-a8f3-4d2e-805b-1a1fc4a43e19profile-pic (8).png",
+      "PackagePath": "staticwebassets\\images\\doctors\\b7d35c00-a8f3-4d2e-805b-1a1fc4a43e19profile-pic (8).png"
+    },
+    {
+      "Id": "C:\\Users\\oo\\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\\Desktop\\Vezeeta\\Vezeeta.Api\\wwwroot\\images\\doctors\\c37b352f-fb98-4c4d-90d3-4267a37a4c88cover-image (3).png",
+      "PackagePath": "staticwebassets\\images\\doctors\\c37b352f-fb98-4c4d-90d3-4267a37a4c88cover-image (3).png"
+    },
+    {
+      "Id": "C:\\Users\\oo\\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\\Desktop\\Vezeeta\\Vezeeta.Api\\wwwroot\\images\\patients\\28088428-7228-476e-8a0c-b5a07b33a13fphoto_2023-07-24_01-01-19.jpg",
+      "PackagePath": "staticwebassets\\images\\patients\\28088428-7228-476e-8a0c-b5a07b33a13fphoto_2023-07-24_01-01-19.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Vezeeta.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Vezeeta.Api.props",
+      "PackagePath": "build\\Vezeeta.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Vezeeta.Api.props",
+      "PackagePath": "buildMultiTargeting\\Vezeeta.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Vezeeta.Api.props",
+      "PackagePath": "buildTransitive\\Vezeeta.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

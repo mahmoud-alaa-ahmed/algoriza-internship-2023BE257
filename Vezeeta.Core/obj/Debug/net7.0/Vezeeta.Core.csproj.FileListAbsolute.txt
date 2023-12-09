@@ -1,0 +1,26 @@
+F:\Algoriza intern\Vezeeta\Vezeeta.Core\obj\Debug\net7.0\Vezeeta.Core.csproj.AssemblyReference.cache
+F:\Algoriza intern\Vezeeta\Vezeeta.Core\obj\Debug\net7.0\Vezeeta.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Algoriza intern\Vezeeta\Vezeeta.Core\obj\Debug\net7.0\Vezeeta.Core.AssemblyInfoInputs.cache
+F:\Algoriza intern\Vezeeta\Vezeeta.Core\obj\Debug\net7.0\Vezeeta.Core.AssemblyInfo.cs
+F:\Algoriza intern\Vezeeta\Vezeeta.Core\obj\Debug\net7.0\Vezeeta.Core.csproj.CoreCompileInputs.cache
+F:\Algoriza intern\Vezeeta\Vezeeta.Core\obj\Debug\net7.0\Vezeeta.Core.sourcelink.json
+F:\Algoriza intern\Vezeeta\Vezeeta.Core\bin\Debug\net7.0\Vezeeta.Core.deps.json
+F:\Algoriza intern\Vezeeta\Vezeeta.Core\bin\Debug\net7.0\Vezeeta.Core.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Core\bin\Debug\net7.0\Vezeeta.Core.pdb
+F:\Algoriza intern\Vezeeta\Vezeeta.Core\obj\Debug\net7.0\Vezeeta.Core.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Core\obj\Debug\net7.0\refint\Vezeeta.Core.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Core\obj\Debug\net7.0\Vezeeta.Core.pdb
+F:\Algoriza intern\Vezeeta\Vezeeta.Core\obj\Debug\net7.0\ref\Vezeeta.Core.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Core\bin\Debug\net7.0\Vezeeta.Core.deps.json
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Core\bin\Debug\net7.0\Vezeeta.Core.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Core\bin\Debug\net7.0\Vezeeta.Core.pdb
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Core\obj\Debug\net7.0\Vezeeta.Core.csproj.AssemblyReference.cache
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Core\obj\Debug\net7.0\Vezeeta.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Core\obj\Debug\net7.0\Vezeeta.Core.AssemblyInfoInputs.cache
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Core\obj\Debug\net7.0\Vezeeta.Core.AssemblyInfo.cs
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Core\obj\Debug\net7.0\Vezeeta.Core.csproj.CoreCompileInputs.cache
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Core\obj\Debug\net7.0\Vezeeta.Core.sourcelink.json
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Core\obj\Debug\net7.0\Vezeeta.Core.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Core\obj\Debug\net7.0\refint\Vezeeta.Core.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Core\obj\Debug\net7.0\Vezeeta.Core.pdb
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Core\obj\Debug\net7.0\ref\Vezeeta.Core.dll

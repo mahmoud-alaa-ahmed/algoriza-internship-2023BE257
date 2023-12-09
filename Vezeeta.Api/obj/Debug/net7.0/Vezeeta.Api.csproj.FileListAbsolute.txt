@@ -1,0 +1,179 @@
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\Vezeeta.Api.csproj.AssemblyReference.cache
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\Vezeeta.Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\Vezeeta.Api.AssemblyInfoInputs.cache
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\Vezeeta.Api.AssemblyInfo.cs
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\Vezeeta.Api.csproj.CoreCompileInputs.cache
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\Vezeeta.Api.MvcApplicationPartsAssemblyInfo.cache
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\Vezeeta.Api.sourcelink.json
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\appsettings.Development.json
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\appsettings.json
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Vezeeta.Api.staticwebassets.runtime.json
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Vezeeta.Api.exe
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Vezeeta.Api.deps.json
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Vezeeta.Api.runtimeconfig.json
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Vezeeta.Api.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Vezeeta.Api.pdb
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Azure.Core.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Azure.Identity.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Humanizer.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\System.CodeDom.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\System.Memory.Data.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Vezeeta.Core.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Vezeeta.Infrastructure.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Vezeeta.Core.pdb
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Vezeeta.Infrastructure.pdb
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\staticwebassets.build.json
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\staticwebassets.development.json
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\staticwebassets\msbuild.Vezeeta.Api.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Vezeeta.Api.props
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Vezeeta.Api.props
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Vezeeta.Api.props
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\scopedcss\bundle\Vezeeta.Api.styles.css
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\Vezeeta.Api.csproj.CopyComplete
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\Vezeeta.Api.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\refint\Vezeeta.Api.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\Vezeeta.Api.pdb
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\Vezeeta.Api.genruntimeconfig.cache
+F:\Algoriza intern\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\ref\Vezeeta.Api.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\appsettings.json
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Vezeeta.Api.staticwebassets.runtime.json
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Vezeeta.Api.exe
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Vezeeta.Api.deps.json
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Vezeeta.Api.runtimeconfig.json
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Vezeeta.Api.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Vezeeta.Api.pdb
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Vezeeta.Core.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Vezeeta.Infrastructure.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Vezeeta.Core.pdb
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Vezeeta.Infrastructure.pdb
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\Vezeeta.Api.csproj.AssemblyReference.cache
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\Vezeeta.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\Vezeeta.Api.AssemblyInfoInputs.cache
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\Vezeeta.Api.AssemblyInfo.cs
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\Vezeeta.Api.csproj.CoreCompileInputs.cache
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\Vezeeta.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\Vezeeta.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\Vezeeta.Api.sourcelink.json
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\staticwebassets\msbuild.Vezeeta.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Vezeeta.Api.props
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Vezeeta.Api.props
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Vezeeta.Api.props
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\scopedcss\bundle\Vezeeta.Api.styles.css
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\Vezeeta.Api.csproj.CopyComplete
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\Vezeeta.Api.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\refint\Vezeeta.Api.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\Vezeeta.Api.pdb
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\Vezeeta.Api.genruntimeconfig.cache
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\obj\Debug\net7.0\ref\Vezeeta.Api.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Vezeeta.Services.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Api\bin\Debug\net7.0\Vezeeta.Services.pdb

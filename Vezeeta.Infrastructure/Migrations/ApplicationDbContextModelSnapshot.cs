@@ -158,7 +158,7 @@ namespace Vezeeta.Infrastructure.Migrations
                     b.HasData(
                         new
                         {
-                            UserId = "908822e4-a5a5-4fe8-93d3-39a09ab57006",
+                            UserId = "85c71197-4389-41f2-a99d-6b2427e3aa5e",
                             RoleId = "1"
                         });
                 });
@@ -277,10 +277,10 @@ namespace Vezeeta.Infrastructure.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "908822e4-a5a5-4fe8-93d3-39a09ab57006",
+                            Id = "85c71197-4389-41f2-a99d-6b2427e3aa5e",
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "cc071aea-f316-4f90-b05a-12a6f83862ea",
-                            DateOfBirth = new DateTime(2023, 12, 8, 13, 49, 42, 863, DateTimeKind.Local).AddTicks(9719),
+                            ConcurrencyStamp = "12185fb0-6975-4d28-89ef-4f0f5aaf52e1",
+                            DateOfBirth = new DateTime(2023, 12, 9, 14, 8, 47, 922, DateTimeKind.Local).AddTicks(660),
                             Email = "mahmoudalaa72@gmail.com",
                             EmailConfirmed = false,
                             FirstName = "Mahmoud",
@@ -290,12 +290,11 @@ namespace Vezeeta.Infrastructure.Migrations
                             LockoutEnabled = false,
                             NormalizedEmail = "MAHMOUDALAA72@GMAIL.COM",
                             NormalizedUserName = "MAHMOUD_ALAA",
-                            PasswordHash = "AQAAAAIAAYagAAAAEFG2aD/y768Zgvd+FeHybI5PCtS0mnWqHOZvQm8j5zhGx156//GOpAQZ8IwtJM8U8A==",
+                            PasswordHash = "AQAAAAIAAYagAAAAEKhshj95eMLNE1c4RgyQEB4Kxg+fto5yx/W2vM89+9iDF9xtofPEPub2TDLRl+h/Nw==",
                             Phone = "01140938815",
                             PhoneNumberConfirmed = false,
-                            SecurityStamp = "729a2f4a-f089-4a36-a9f2-07a5a387b06e",
+                            SecurityStamp = "d867e411-62a4-4918-af74-26db69d407e2",
                             TwoFactorEnabled = false,
-                            UserName = "mahmoud_alaa",
                             UserType = "Admin"
                         });
                 });
@@ -329,10 +328,13 @@ namespace Vezeeta.Infrastructure.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("AppointmentId")
+                    b.Property<int>("DayId")
                         .HasColumnType("int");
 
                     b.Property<int>("DiscountId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("DoctorId")
                         .HasColumnType("int");
 
                     b.Property<double>("FinalPrice")
@@ -341,16 +343,26 @@ namespace Vezeeta.Infrastructure.Migrations
                     b.Property<int>("PatientId")
                         .HasColumnType("int");
 
+                    b.Property<double>("Price")
+                        .HasColumnType("float");
+
                     b.Property<int>("Status")
+                        .HasColumnType("int");
+
+                    b.Property<int>("TimeId")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("AppointmentId");
+                    b.HasIndex("DayId");
 
                     b.HasIndex("DiscountId");
 
+                    b.HasIndex("DoctorId");
+
                     b.HasIndex("PatientId");
+
+                    b.HasIndex("TimeId");
 
                     b.ToTable("Bookings");
                 });
@@ -391,11 +403,14 @@ namespace Vezeeta.Infrastructure.Migrations
                     b.Property<int>("DiscountType")
                         .HasColumnType("int");
 
+                    b.Property<bool>("IsActive")
+                        .HasColumnType("bit");
+
                     b.Property<int>("NumberOfRequests")
                         .HasColumnType("int");
 
-                    b.Property<decimal>("Value")
-                        .HasColumnType("decimal(18,2)");
+                    b.Property<double>("Value")
+                        .HasColumnType("float");
 
                     b.HasKey("Id");
 
@@ -547,9 +562,9 @@ namespace Vezeeta.Infrastructure.Migrations
 
             modelBuilder.Entity("Vezeeta.Core.Models.Booking", b =>
                 {
-                    b.HasOne("Vezeeta.Core.Models.Appointment", "Appointment")
+                    b.HasOne("Vezeeta.Core.Models.DayModel", "Day")
                         .WithMany()
-                        .HasForeignKey("AppointmentId")
+                        .HasForeignKey("DayId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
@@ -559,17 +574,33 @@ namespace Vezeeta.Infrastructure.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("Vezeeta.Core.Models.Patient", "Patient")
+                    b.HasOne("Vezeeta.Core.Models.Doctor", "Doctor")
                         .WithMany()
+                        .HasForeignKey("DoctorId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Vezeeta.Core.Models.Patient", "Patient")
+                        .WithMany("Bookings")
                         .HasForeignKey("PatientId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("Appointment");
+                    b.HasOne("Vezeeta.Core.Models.TimeModel", "Time")
+                        .WithMany()
+                        .HasForeignKey("TimeId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Day");
 
                     b.Navigation("Discount");
 
+                    b.Navigation("Doctor");
+
                     b.Navigation("Patient");
+
+                    b.Navigation("Time");
                 });
 
             modelBuilder.Entity("Vezeeta.Core.Models.DayModel", b =>
@@ -632,6 +663,11 @@ namespace Vezeeta.Infrastructure.Migrations
             modelBuilder.Entity("Vezeeta.Core.Models.DayModel", b =>
                 {
                     b.Navigation("Times");
+                });
+
+            modelBuilder.Entity("Vezeeta.Core.Models.Patient", b =>
+                {
+                    b.Navigation("Bookings");
                 });
 #pragma warning restore 612, 618
         }

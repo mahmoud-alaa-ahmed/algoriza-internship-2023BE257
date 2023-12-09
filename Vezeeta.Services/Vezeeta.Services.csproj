@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Vezeeta.Core\Vezeeta.Core.csproj" />
+    <ProjectReference Include="..\Vezeeta.Infrastructure\Vezeeta.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

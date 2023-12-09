@@ -7,6 +7,7 @@ namespace Vezeeta.Core.Models
 		public string DiscountCode { get; set; } = string.Empty;
 		public int NumberOfRequests { get; set; }
 		public DiscountType DiscountType { get; set; }
-		public decimal Value { get; set; }
-	}
+		public double Value { get; set; }
+        public bool IsActive { get; set; }
+    }
 }

@@ -40,7 +40,5 @@ namespace Vezeeta.Core.Dtos.AuthDtos
 		[Compare("Password", ErrorMessage = "Password Not Match")]
 		public string ConfirmPassword { get; set; } = string.Empty;
 
-		[Required]
-		public string UserType { get; set; } = string.Empty;
 	}
 }

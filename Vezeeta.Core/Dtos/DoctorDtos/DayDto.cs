@@ -1,9 +1,12 @@
-﻿namespace Vezeeta.Core.Dtos.DoctorDtos
+﻿using Vezeeta.Core.Enums;
+using Vezeeta.Core.Models;
+
+namespace Vezeeta.Core.Dtos.DoctorDtos
 {
 	public class DayDto
 	{
-		public int Day { get; set; }
-		public List<DayDto> Times { get; set; }
+		public Days Day { get; set; }
+		public List<TimeDto> Times { get; set; }
 
 	}
 }

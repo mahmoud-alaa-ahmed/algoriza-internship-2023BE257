@@ -5,33 +5,29 @@ namespace Vezeeta.Core.Helpers
 {
 	public class UploadHelpers
 	{
-		public const string PatientImagePath  = "images\\patients";
-		public const string DoctorImagePath  = "images\\doctors";
 		public const string AllowedExtensions = ".jpg,.jpeg,.png";
 		public const int MaxFileSizeInMB = 1;
 		public const int MaxFileSizeInBytes = MaxFileSizeInMB * 1024 * 1024;
-
-		private readonly IWebHostEnvironment _webHostEnvironment;
-		private string _imagesPath = string.Empty;
-		public UploadHelpers(IWebHostEnvironment webHostEnvironment, string imagesPath)
+		public static string UploadFile(IFormFile file, string FolderName)
 		{
-			_webHostEnvironment = webHostEnvironment;
+			
+			var FolderPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\images", FolderName);
+			
+			var fileName = Guid.NewGuid() + file.FileName;
+			
+			var filePath = Path.Combine(FolderPath, fileName);
+			
+			var FileStream = new FileStream(filePath, FileMode.Create);
+			
+			file.CopyTo(FileStream);
+			
+			return Path.Combine($"images\\{FolderName}", fileName);
 		}
-
-		public static string UploadFile(IFormFile file, string path)
+		public static void DeleteFile(string folderName, string fileName)
 		{
-
-			//create a new name for the image
-			var timeStamp = DateTime.Now.ToString("yyyyMMddHHmmssfff");
-			var fileName = $"{timeStamp}{Path.GetExtension(file.FileName)}";
-			//the image path
-			var relativePath = Path.Combine("wwwroot", path, fileName);
-			using (var stream = new FileStream(relativePath, FileMode.Create))
-			{
-				file.CopyTo(stream);
-			}
-
-			return relativePath;
+			var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\images", folderName, fileName);
+			if (File.Exists(filePath))
+				File.Delete(filePath);
 		}
 	}
 }

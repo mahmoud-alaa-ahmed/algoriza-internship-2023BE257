@@ -1,0 +1,34 @@
+F:\Algoriza intern\Vezeeta\Vezeeta.Services\obj\Debug\net7.0\Vezeeta.Services.csproj.AssemblyReference.cache
+F:\Algoriza intern\Vezeeta\Vezeeta.Services\obj\Debug\net7.0\Vezeeta.Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\Algoriza intern\Vezeeta\Vezeeta.Services\obj\Debug\net7.0\Vezeeta.Services.AssemblyInfoInputs.cache
+F:\Algoriza intern\Vezeeta\Vezeeta.Services\obj\Debug\net7.0\Vezeeta.Services.AssemblyInfo.cs
+F:\Algoriza intern\Vezeeta\Vezeeta.Services\obj\Debug\net7.0\Vezeeta.Services.csproj.CoreCompileInputs.cache
+F:\Algoriza intern\Vezeeta\Vezeeta.Services\obj\Debug\net7.0\Vezeeta.Services.sourcelink.json
+F:\Algoriza intern\Vezeeta\Vezeeta.Services\bin\Debug\net7.0\Vezeeta.Services.deps.json
+F:\Algoriza intern\Vezeeta\Vezeeta.Services\bin\Debug\net7.0\Vezeeta.Services.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Services\bin\Debug\net7.0\Vezeeta.Services.pdb
+F:\Algoriza intern\Vezeeta\Vezeeta.Services\bin\Debug\net7.0\Vezeeta.Core.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Services\bin\Debug\net7.0\Vezeeta.Core.pdb
+F:\Algoriza intern\Vezeeta\Vezeeta.Services\obj\Debug\net7.0\Vezeeta.Services.csproj.CopyComplete
+F:\Algoriza intern\Vezeeta\Vezeeta.Services\obj\Debug\net7.0\Vezeeta.Services.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Services\obj\Debug\net7.0\refint\Vezeeta.Services.dll
+F:\Algoriza intern\Vezeeta\Vezeeta.Services\obj\Debug\net7.0\Vezeeta.Services.pdb
+F:\Algoriza intern\Vezeeta\Vezeeta.Services\obj\Debug\net7.0\ref\Vezeeta.Services.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Services\bin\Debug\net7.0\Vezeeta.Services.deps.json
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Services\bin\Debug\net7.0\Vezeeta.Services.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Services\bin\Debug\net7.0\Vezeeta.Services.pdb
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Services\bin\Debug\net7.0\Vezeeta.Core.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Services\bin\Debug\net7.0\Vezeeta.Core.pdb
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Services\obj\Debug\net7.0\Vezeeta.Services.csproj.AssemblyReference.cache
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Services\obj\Debug\net7.0\Vezeeta.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Services\obj\Debug\net7.0\Vezeeta.Services.AssemblyInfoInputs.cache
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Services\obj\Debug\net7.0\Vezeeta.Services.AssemblyInfo.cs
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Services\obj\Debug\net7.0\Vezeeta.Services.csproj.CoreCompileInputs.cache
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Services\obj\Debug\net7.0\Vezeeta.Services.sourcelink.json
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Services\obj\Debug\net7.0\Vezeeta.Services.csproj.CopyComplete
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Services\obj\Debug\net7.0\Vezeeta.Services.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Services\obj\Debug\net7.0\refint\Vezeeta.Services.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Services\obj\Debug\net7.0\Vezeeta.Services.pdb
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Services\obj\Debug\net7.0\ref\Vezeeta.Services.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Services\bin\Debug\net7.0\Vezeeta.Infrastructure.dll
+C:\Users\oo\OneDrive - Faculty of Computers and Information Technology (Zagazig University)\Desktop\Vezeeta\Vezeeta.Services\bin\Debug\net7.0\Vezeeta.Infrastructure.pdb
